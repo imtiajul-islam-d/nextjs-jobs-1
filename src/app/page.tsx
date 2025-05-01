@@ -24,7 +24,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <p>try 2</p>
+          <p>try 3</p>
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
           </li>
